@@ -1,3 +1,3 @@
-## 🐍 Contribution Snake
+## 🐍 DABHI Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.compriyankddabhi/priyankddabhi/output/github-contribution-grid-snake.svg)
+![Dabhi Snake](https://raw.githubusercontent.com/priyankddabhi/priyankddabhi/output/github-snake-dabhi.svg)
